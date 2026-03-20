@@ -245,16 +245,15 @@ ul { list-style: none; }
   box-shadow: var(--shadow-green);
 }
 
-.ncc{
-  margin-left: -15px;
+.ncc1{
+margin-left: -15px;
 }
 .fccpc{
-  margin-left: -25px;
+  margin-left: -30px;
 }
 .son{
-  margin-left: -10px;
+  margin-left: -15px;
 }
-.n
 /* ── SECTION & LAYOUT ── */
 .section {
   padding: 5.5rem 2rem;
