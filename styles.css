@@ -245,6 +245,16 @@ ul { list-style: none; }
   box-shadow: var(--shadow-green);
 }
 
+.ncc{
+  margin-left: -15px;
+}
+.fccpc{
+  margin-left: -25px;
+}
+.son{
+  margin-left: -10px;
+}
+.n
 /* ── SECTION & LAYOUT ── */
 .section {
   padding: 5.5rem 2rem;
