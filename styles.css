@@ -245,15 +245,19 @@ ul { list-style: none; }
   box-shadow: var(--shadow-green);
 }
 
-.ncc1{
-margin-left: -15px;
-}
+/* REPORT INTERFACE FOR AGENCIES TO FIT TO MOBILE VIEW*/
 .fccpc{
-  margin-left: -30px;
-}
-.son{
   margin-left: -15px;
 }
+
+.ncc1{
+margin-left: -5px;
+}
+
+.son{
+  margin-left: -6px;
+}
+
 /* ── SECTION & LAYOUT ── */
 .section {
   padding: 5.5rem 2rem;
