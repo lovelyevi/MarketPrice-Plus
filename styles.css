@@ -312,7 +312,7 @@ ul { list-style: none; }
 
 /* ── AGENCY CARD ── */
 .agency-card { border-top: 3px solid; }
-.agency-card__icon  { font-size: 2.5rem; margin-bottom: 1rem; }
+.agency-card__icon  img{ width: 250px; margin-bottom: 1rem; }
 .agency-card__short {
   font-family: 'Syne', sans-serif;
   font-size: 1.6rem; font-weight: 800; margin-bottom: 0.25rem;
